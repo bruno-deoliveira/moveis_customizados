@@ -6,7 +6,7 @@
 </p>
 
 ## 💻 Projeto
-Projeto 02 do modulo Introdução ao HTML e CSS - Explore Rocketseat
+Projeto 01 do modulo Introdução ao HTML e CSS - Explore Rocketseat
 
 Nesse desafio, foi recriado uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 - Estruturação do projeto HTML;
