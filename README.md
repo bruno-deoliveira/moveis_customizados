@@ -1,12 +1,15 @@
-# moveis_customizados
-Desafio do rocketseat - Stage 02
-![Design sem nome](https://github.com/bruno-deoliveira/moveis_customizados/assets/109918729/5353ec34-b315-4bff-9ef1-d831d2116826)
+<h1 align="center"> 🛋 Moveis Customizados </h1>
+<h4 align="center"> Status: 🚀 Finished </h4>
+
+<p align="center">
+  <img src="https://github.com/bruno-deoliveira/moveis_customizados/assets/109918729/5353ec34-b315-4bff-9ef1-d831d2116826"
+</p>
 
 ## 💻 Projeto
-Projeto 02 do modulo Introdução ao HTML e CSS
+Projeto 02 do modulo Introdução ao HTML e CSS - Explore Rocketseat
 
 Nesse desafio, foi recriado uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
-- Estruturando um projeto HTML;
+- Estruturação do projeto HTML;
 - Uso de tags HTML mais comuns;
 - Conceitos iniciais de CSS;
 - Posicionamento e alinhamento de elementos na tela;
@@ -22,7 +25,7 @@ Nesse desafio, foi recriado uma aplicação, a partir de um layout pronto no
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?type=design&t=GH6hUnTrrz3EpL4F-0). É necessário ter conta no Figma para acessá-lo.
 
-## 🚀 Iniciar Projeto
+## 💾 Iniciar Projeto
 Live server com VScode ou apenas clonar pasta e acessar o index.html
 <h5> Programas necessários para iniciar projeto </h5>
 
@@ -41,6 +44,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
 
-## My LinkedIn <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+## 🔎 My LinkedIn 
+<a href="https://www.linkedin.com/in/bruno-almeida-deoliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <h3 align="center">Developed by Bruno Oliveira ☕</h3>
 
