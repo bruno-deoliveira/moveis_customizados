@@ -39,7 +39,7 @@ $ git clone https://github.com/bruno-deoliveira/moveis_customizados.git
 $ cd moveis_customizados
 ```
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bruno-deoliveira/moveis_customizados/blob/main/LICENSE) para mais detalhes.    
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
